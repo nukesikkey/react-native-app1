@@ -1,0 +1,17 @@
+Main Example:
+https://github.com/robinhuy/react-native-expo-examples
+
+Secondary Example
+https://github.com/expo/examples
+
+
+Other:
+https://blog.logrocket.com/react-native-styling-tutorial-with-examples/
+https://reactnative.dev/docs/style
+
+
+https://reactnative.dev/docs/text-style-props
+https://reactnative.dev/docs/stylesheet
+
+
+
